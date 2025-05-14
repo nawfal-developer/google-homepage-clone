@@ -2,6 +2,9 @@
 
 This project is a simple clone of the **Google Homepage**, created as part of the [Angela Yu Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
 
+Your site is live at https://nawfal-developer.github.io/google-homepage-clone/
+
+
 ##  Project Description
 
 
