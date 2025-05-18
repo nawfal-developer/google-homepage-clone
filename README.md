@@ -4,7 +4,7 @@ A simple clone of the Google homepage using only HTML and CSS.
 Built as part of my web development learning journey.
 
 ##  Live Demo
-
+https://nawfal-developer.github.io/google-homepage-clone/
 
 ##  Technologies Used
 
